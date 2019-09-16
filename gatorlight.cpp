@@ -7,7 +7,7 @@ using namespace pxt;
 namespace SW02 {
 
     //%
-    uint8_t getLux() {
+    uint8_t getID() {
 
         return 29;
     }
