@@ -13,7 +13,7 @@
         "shims.d.ts",
         "enums.d.ts"
         "bme680_defs.h",
-        "bme680.c",
+        "bme680.cpp",
         "bme680.h"
     ],
     "testFiles": [],
