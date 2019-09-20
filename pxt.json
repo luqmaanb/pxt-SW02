@@ -11,10 +11,9 @@
         "gatorlight.ts",
         "gatorlight.cpp",
         "shims.d.ts",
-        "enums.d.ts",
-        "bme680_defs.h",
-        "bme680.cpp",
-        "bme680.h"
+        "enums.d.ts"
+        "BME280.cpp",
+        "BME280.h"
     ],
     "testFiles": [],
     "public": true
