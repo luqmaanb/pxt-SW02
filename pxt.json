@@ -11,7 +11,7 @@
         "gatorlight.ts",
         "gatorlight.cpp",
         "shims.d.ts",
-        "enums.d.ts"
+        "enums.d.ts",
         "BME280.cpp",
         "BME280.h"
     ],
