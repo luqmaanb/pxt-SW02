@@ -10,6 +10,7 @@
         "README.md",
         "sw02.ts",
         "sw02.cpp",
+        "sw02.h",
         "shims.d.ts",
         "enums.d.ts",
         "core.cpp",
