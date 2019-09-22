@@ -8,12 +8,12 @@
     },
     "files": [
         "README.md",
-        "gatorlight.ts",
-        "gatorlight.cpp",
+        "sw02.ts",
+        "sw02.cpp",
         "shims.d.ts",
         "enums.d.ts",
-        "BME280.cpp",
-        "BME280.h"
+        "core.cpp",
+        "core.h"
     ],
     "testFiles": [],
     "public": true
